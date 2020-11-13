@@ -1,0 +1,1 @@
+At First Start i will try to move all found prefabs into the resource folder and correct the needed script values

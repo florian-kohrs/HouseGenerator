@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall_45D
+  - Wall
+  - Environment
+  - SteeringWheel
+  - CannonBall
+  - Portal
+  - Steersman
+  - PermudaTri
+  - Guard
+  - Governor
+  - Bubu
+  - Cell
+  - Schnucki
+  - Admiral
+  - Findables
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - WeatherInfluenceableObjects
+  - WeaponOnly
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
